@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzOk1+b7Ijk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LiannaBolgar\\source\\repos\\TrainingWebApi\\TrainingWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LiannaBolgar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\LiannaBolgar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
